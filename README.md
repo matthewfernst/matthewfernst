@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1>Hello! I'm Matt. <img src="https://thumbs.gfycat.com/TepidTestyAoudad-max-1mb.gif" width="100px"/></h1>
+<p> I am a master's student at Colorado State University specializing in machine learning and artificial intelligence. In my free time, I enjoy getting my hands dirty by learning new technologies and making projects with them. </p>
+
+- 🔭 I’m currently researching new ways of backpropagation to combat the dead ReLU problem.
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/) and [Swift](https://swift.org/documentation/).
+- 🔮 I'm hoping to work at [Apple](https://apple.com) in my future.
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/matthewfernst).
+- 📫 How to reach me: [matthew.f.ernst@gmail.com](mailto:matthew.f.ernst@gmail.com).
+
 
 <!--
 **matthewfernst/matthewfernst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
