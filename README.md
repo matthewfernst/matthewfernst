@@ -1,7 +1,7 @@
 <h1>Hello! I'm Matt. <img src="https://thumbs.gfycat.com/TepidTestyAoudad-max-1mb.gif" width="80px"/></h1>
 <p> I am a master's student at Colorado State University specializing in machine learning and artificial intelligence. In my free time, I enjoy learning new technologies and building projects with them. </p>
 
-- 🔭 I’m currently researching new ways of backpropagation to combat the dead ReLU problem.
+- 🔭 I’m currently researching a new neural network architecture to mitigate dead neurons named a “Late Residual Neural Network”.
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/) and [Swift](https://swift.org/documentation/).
 - 🔮 I'm hoping to work at [Apple](https://apple.com) in my future.
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/matthewfernst).
