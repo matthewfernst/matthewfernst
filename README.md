@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently researching a new neural network architecture to mitigate dead neurons named a “Late Residual Neural Network”.
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/) and [Swift](https://swift.org/documentation/).
-- 🔮 I'm hoping to work at [Apple](https://apple.com) in my future.
+- 🔮 I'm hoping to soon work with machine learning and deep learning in industry.
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/matthewfernst).
 - 📫 How to reach me: [matthew.f.ernst@gmail.com](mailto:matthew.f.ernst@gmail.com).
 
