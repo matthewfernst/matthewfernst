@@ -1,8 +1,8 @@
 <h1>Hello! I'm Matt. <img src="https://thumbs.gfycat.com/TepidTestyAoudad-max-1mb.gif" width="80px"/></h1>
 <p> I am a master's student at Colorado State University specializing in machine learning and artificial intelligence. In my free time, I enjoy learning new technologies and building projects with them. </p>
 
-- 🔭 I’m currently researching a new neural network architecture to mitigate dead neurons named a “Late Residual Neural Network”.
-- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/) and [Swift](https://swift.org/documentation/).
+- 🔭 I’m currently researching a new neural network architecture to mitigate dead neurons coin the “Late Residual Neural Network”.
+- 🌱 I’m currently learning pruning of neural networks and applicaitons of LSTMs for a personal project.
 - 🔮 I'm hoping to soon work with machine learning and deep learning in industry.
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/matthewfernst).
 - 📫 How to reach me: [matthew.f.ernst@gmail.com](mailto:matthew.f.ernst@gmail.com).
