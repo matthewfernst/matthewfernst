@@ -6,7 +6,7 @@
 - 🔮 I'm hoping to soon work with machine learning and deep learning in industry.
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/matthewfernst).
 - 📫 How to reach me: [matthew.f.ernst@gmail.com](mailto:matthew.f.ernst@gmail.com).
-- 📝 [Resume](MatthewErnstResume.pdf)
+- 📝 My Resume: [Resume](MatthewErnstResume.pdf)
 
 
 <!--
