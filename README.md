@@ -4,7 +4,7 @@
 - 🔭 I’m currently researching a new neural network architecture to mitigate dead neurons coin the “Late Residual Neural Network”.
 - 🌱 I’m currently learning pruning of neural networks and applicaitons of LSTMs for a personal project.
 - 🔮 I'm hoping to soon work with machine learning and deep learning in industry.
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/matthewfernst).
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/matthewfernst?tab=repositories).
 - 📫 How to reach me: [matthew.f.ernst@gmail.com](mailto:matthew.f.ernst@gmail.com).
 - 📝 My Resume: [Resume](MatthewErnstResume.pdf)
 
