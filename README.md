@@ -8,7 +8,7 @@
 - 📫 How to reach me: [matthew.f.ernst@gmail.com](mailto:matthew.f.ernst@gmail.com).
 - 📝 My Resume: [Resume](MatthewErnstResume.pdf)
 
-
+<sub><sup>Profile picture created with [Open Peeps](https://www.openpeeps.com/)</sup></sub>
 <!--
 **matthewfernst/matthewfernst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
