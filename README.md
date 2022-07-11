@@ -1,10 +1,9 @@
 <h1>Hello! I'm Matthew. <img src="https://thumbs.gfycat.com/TepidTestyAoudad-max-1mb.gif" width="80px"/></h1>
 
-I am a software engineer in the machine learning group at [Qualcomm](https://www.qualcomm.com/).
+I am a software engineer in the machine learning group at [Qualcomm](https://www.qualcomm.com/) working on [AIMET](https://github.com/quic/aimet).
 
 - 🔭 I’m currently researching a new neural network architecture to mitigate dead neurons coined the “Late Residual Neural Network”.
 - 🌱 I’m currently learning NLP and [Swift](https://developer.apple.com/swift/).
-- 🔮 I'm hoping to soon work with machine learning and deep learning in industry.
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/matthewfernst?tab=repositories).
 - 📫 How to reach me: [matthew.f.ernst@gmail.com](mailto:matthew.f.ernst@gmail.com).
 - 📝 My Resume: [Resume](MatthewErnstResume.pdf)
