@@ -2,8 +2,8 @@
 
 I am a software engineer in the machine learning group at [Qualcomm](https://www.qualcomm.com/) working on [AIMET](https://github.com/quic/aimet).
 
-- 🔭 I’m currently researching a new neural network architecture to mitigate dead neurons coined the “Late Residual Neural Network”.
-- 🌱 I’m currently learning NLP and [Swift](https://developer.apple.com/swift/).
+- 🔭 I’m currently working on future improvements to [AIMET](https://github.com/quic/aimet) at Qualcomm.
+- 🌱 I’m currently learning [JAX](https://github.com/google/jax) and [Swift](https://developer.apple.com/swift/).
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/matthewfernst?tab=repositories).
 - 📫 How to reach me: [matthew.f.ernst@gmail.com](mailto:matthew.f.ernst@gmail.com).
 - 📝 My Resume: [Resume](MatthewErnstResume.pdf)
