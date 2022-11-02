@@ -1,4 +1,4 @@
-<h1>Hello! I'm Matthew. <img src="https://thumbs.gfycat.com/TepidTestyAoudad-max-1mb.gif" width="80px"/></h1>
+<h1>Hello, I'm Matthew. <img src="https://thumbs.gfycat.com/TepidTestyAoudad-max-1mb.gif" width="80px"/></h1>
 
 I am a software engineer in the machine learning group at [Qualcomm](https://www.qualcomm.com/) working on [AIMET](https://github.com/quic/aimet).
 
