@@ -7,9 +7,7 @@ I am a software engineer in the machine learning group at [Qualcomm](https://www
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/matthewfernst?tab=repositories).
 - 📫 How to reach me: [matthew.f.ernst@gmail.com](mailto:matthew.f.ernst@gmail.com).
 - 📝 My Resume: [Resume](MatthewErnstResume.pdf)
-
-- <a href='https://www.buymeacoffee.com/matthewfernst'  rel="buy me coffee">  <img src="bmc-button.png" style='border:0px;height:40px;' />
-</a>
+  d
 <!--
 **matthewfernst/matthewfernst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
