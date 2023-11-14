@@ -1,4 +1,4 @@
-<h1>Hello, I'm Matthew! <img src="https://github.com/matthewfernst/matthewfernst/blob/main/hello-cursive.gif?raw=true" width="200px"/></h1>
+# Hello, I'm Matthew! 👋
 
 - 🔭 I’m currently working on future improvements to [AIMET](https://github.com/quic/aimet) at [Qualcomm](https://www.qualcomm.com/).
 - 🌱 I’m currently learning [Swift](https://developer.apple.com/swift/) and [JAX](https://github.com/google/jax).
