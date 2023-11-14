@@ -1,9 +1,7 @@
-<h1>Hello, I'm Matthew. <img src="https://github.com/matthewfernst/matthewfernst/blob/main/hello-cursive.gif?raw=true" width="200px"/></h1>
+<h1>Hello, I'm Matthew! <img src="https://github.com/matthewfernst/matthewfernst/blob/main/hello-cursive.gif?raw=true" width="200px"/></h1>
 
-I am a software engineer in the machine learning group at [Qualcomm](https://www.qualcomm.com/) working on [AIMET](https://github.com/quic/aimet).
-
-- 🔭 I’m currently working on future improvements to [AIMET](https://github.com/quic/aimet) at Qualcomm.
-- 🌱 I’m currently learning [CoreML Tools](https://coremltools.readme.io/docs) and [Swift](https://developer.apple.com/swift/).
+- 🔭 I’m currently working on future improvements to [AIMET](https://github.com/quic/aimet) at [Qualcomm](https://www.qualcomm.com/).
+- 🌱 I’m currently learning [Swift](https://developer.apple.com/swift/) and [JAX](https://github.com/google/jax).
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/matthewfernst?tab=repositories).
 - 📫 How to reach me: [matthew.f.ernst@gmail.com](mailto:matthew.f.ernst@gmail.com).
 - 📝 My Resume: [Resume](MatthewErnstResume.pdf)
