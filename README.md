@@ -1,7 +1,7 @@
 # Hello, I'm Matthew! 👋
 
 - 🔭 I’m currently working on future improvements to [AIMET](https://github.com/quic/aimet) at [Qualcomm](https://www.qualcomm.com/).
-- 🌱 I’m currently learning App Development ([Swift](https://developer.apple.com/swift/) and [Kotlin](https://developer.android.com/kotlin?gclid=CjwKCAiA0syqBhBxEiwAeNx9N11hX_OP7IGwVTWwC-po-CH2bkjMbPitzWuKGm0o4CKlp05F1XiCTxoCzqgQAvD_BwE&gclsrc=aw.ds)), and [JAX](https://github.com/google/jax).
+- 🌱 I’m currently learning App Development ([Swift](https://developer.apple.com/swift/) and [Kotlin](https://developer.android.com/kotlin?gclid=CjwKCAiA0syqBhBxEiwAeNx9N11hX_OP7IGwVTWwC-po-CH2bkjMbPitzWuKGm0o4CKlp05F1XiCTxoCzqgQAvD_BwE&gclsrc=aw.ds)), [MLX](https://github.com/ml-explore/mlx), and [JAX](https://github.com/google/jax).
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/matthewfernst?tab=repositories).
 - 📫 How to reach me: [matthew.f.ernst@gmail.com](mailto:matthew.f.ernst@gmail.com).
 - 📝 My Resume: [Resume](MatthewErnstResume.pdf)
