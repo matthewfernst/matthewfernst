@@ -12,7 +12,7 @@
 </p>
 
 - 🔭 I’m currently working on future improvements to [AIMET](https://github.com/quic/aimet) at [Qualcomm](https://www.qualcomm.com/).
-- 🌱 In my spare time I'm learning App Development - [Swift](https://developer.apple.com/swift/) and [Kotlin](https://developer.android.com/kotlin?gclid=CjwKCAiA0syqBhBxEiwAeNx9N11hX_OP7IGwVTWwC-po-CH2bkjMbPitzWuKGm0o4CKlp05F1XiCTxoCzqgQAvD_BwE&gclsrc=aw.ds).
+- 🌱 In my spare time I'm learning App Development - [Swift](https://developer.apple.com/swift/) and learning [JAX](https://jax.readthedocs.io/en/latest/).
 - ❤️ Hoping to develop and learn from the open source community.
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/matthewfernst?tab=repositories).
 - 🏔️From [Fort Collins, CO](https://en.wikipedia.org/wiki/Fort_Collins,_Colorado), but currently in [San Diego, CA](https://en.wikipedia.org/wiki/San_Diego)
